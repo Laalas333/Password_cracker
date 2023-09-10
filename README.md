@@ -1,1 +1,1 @@
-# Password_cracker
+Uses brute force attack 
